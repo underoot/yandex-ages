@@ -1,0 +1,932 @@
+[
+	{
+		"countryName": "Австрия",
+		"yandexAnswer": "100",
+		"googleAnswer": "77",
+		"wikiAnswer": "77"
+	},
+	{
+		"countryName": "Азербайджан",
+		"yandexAnswer": "—",
+		"googleAnswer": "59",
+		"wikiAnswer": "59"
+	},
+	{
+		"countryName": "Албания",
+		"yandexAnswer": "—",
+		"googleAnswer": "52",
+		"wikiAnswer": "52"
+	},
+	{
+		"countryName": "Алжир",
+		"yandexAnswer": "82-летний президент, правивший страной 20 лет, ранее заявлял, что готов покинуть пост до 28 апреля, но протестующих это не устроило.",
+		"googleAnswer": "75",
+		"wikiAnswer": "75"
+	},
+	{
+		"countryName": "Ангола",
+		"yandexAnswer": "112016 года президент Анголы Жозе Эдуарду душ Сантуш, бессменно возглавляющий страну 36 лет, заявил, что не намерен участвовать в следующих президентских выборах в 2017 году.",
+		"googleAnswer": "67",
+		"wikiAnswer": "67"
+	},
+	{
+		"countryName": "Аргентина",
+		"yandexAnswer": "2 апреля 1959 года в городе Буэнос-Айрес. Выпускник Университета Буэнос-Айреса, адвокат и бывший преподаватель гражданского и уголовного права. С мая 2003 по июль 2008-го года, при президентах Нестоторе и Кристине Киршнер, возглавлял кабинет министров Аргентины.",
+		"googleAnswer": "62",
+		"wikiAnswer": "62"
+	},
+	{
+		"countryName": "Армения",
+		"yandexAnswer": "66",
+		"googleAnswer": "67",
+		"wikiAnswer": "67"
+	},
+	{
+		"countryName": "Афганистан",
+		"yandexAnswer": "70",
+		"googleAnswer": "72",
+		"wikiAnswer": "72"
+	},
+	{
+		"countryName": "Бангладеш",
+		"yandexAnswer": "—",
+		"googleAnswer": "77",
+		"wikiAnswer": "77"
+	},
+	{
+		"countryName": "Белоруссия",
+		"yandexAnswer": "—",
+		"googleAnswer": "66",
+		"wikiAnswer": "66"
+	},
+	{
+		"countryName": "Бенин",
+		"yandexAnswer": "—",
+		"googleAnswer": "63",
+		"wikiAnswer": "63"
+	},
+	{
+		"countryName": "Болгария",
+		"yandexAnswer": "31",
+		"googleAnswer": "57",
+		"wikiAnswer": "57"
+	},
+	{
+		"countryName": "Боливия",
+		"yandexAnswer": "5-летний (исторически 4 года) срок . С момента основания офиса в 1825 году 65 мужчин и 2 женщины занимали пост президента.",
+		"googleAnswer": "57",
+		"wikiAnswer": "57"
+	},
+	{
+		"countryName": "Ботсвана",
+		"yandexAnswer": "—",
+		"googleAnswer": "58",
+		"wikiAnswer": "58"
+	},
+	{
+		"countryName": "Бразилия",
+		"yandexAnswer": "21 марта 1955, Глисериу, Сан-Паулу, Бразилия) — бразильский государственный и политический деятель. Президент Бразилии с 1 января 2019 года.",
+		"googleAnswer": "66",
+		"wikiAnswer": "66"
+	},
+	{
+		"countryName": "Буркина-Фасо",
+		"yandexAnswer": "3 февраля 1951 г. в столице Верхней Вольты (с 1984 г. - Буркина-Фасо) г. Уагадугу. Окончил католическую школу и педагогическое училище в Уагадугу, затем поступил на военную службу. В июле 1975 г. окончил Общевойсковое училище Камеруна (Ecole militaire Inter-arms du Cameroun, EMIAC) в Яунде в звании младшего лейтенанта.",
+		"googleAnswer": "64",
+		"wikiAnswer": "64"
+	},
+	{
+		"countryName": "Бурунди",
+		"yandexAnswer": "—",
+		"googleAnswer": "52",
+		"wikiAnswer": "52"
+	},
+	{
+		"countryName": "Вануату",
+		"yandexAnswer": "—",
+		"googleAnswer": "66",
+		"wikiAnswer": "66"
+	},
+	{
+		"countryName": "Венгрия",
+		"yandexAnswer": "9 мая 1959 года в городе Чорна в Венгрии. Его отец был заместителем управляющего в магазине, мать работала в... РИА Новости, 13.03.2017.",
+		"googleAnswer": "62",
+		"wikiAnswer": "62"
+	},
+	{
+		"countryName": "Вьетнам",
+		"yandexAnswer": "—",
+		"googleAnswer": "66",
+		"wikiAnswer": "66"
+	},
+	{
+		"countryName": "Габон",
+		"yandexAnswer": "40 лет, скончался 8 июня от сердечного приступа в возрасте 73 лет в барселонской клинике \"Кирон\".",
+		"googleAnswer": "62",
+		"wikiAnswer": "62"
+	},
+	{
+		"countryName": "Гаити",
+		"yandexAnswer": "221957 года президентом Гаити стал доктор Франсуа Дювалье. Он правил 26 лет, до самой смерти, и был признан одним из наиболее жестоких и эксцентричных диктаторов Западного полушария.",
+		"googleAnswer": "52",
+		"wikiAnswer": "52"
+	},
+	{
+		"countryName": "Гайана",
+		"yandexAnswer": "5 лет. Президентом становится лидер партии, победившей на очередных всеобщих выборах (по результатам выборов в парламент). Премьер-министр назначается президентом. Высший орган законодат. власти – однопалатная Нац. ассамблея (65 деп.). Срок полномочий 5 лет.",
+		"googleAnswer": "41",
+		"wikiAnswer": "41"
+	},
+	{
+		"countryName": "Гамбия",
+		"yandexAnswer": "1970 году. До этого функции главы государства исполнял британский монарх. Джавара неоднократно переизбирался на пост президента Гамбии и возглавлял страну течение 24 лет. Однако в 1994 году он был свергнут лейтенантом Яйя Джамме.",
+		"googleAnswer": "56",
+		"wikiAnswer": "56"
+	},
+	{
+		"countryName": "Гана",
+		"yandexAnswer": "—",
+		"googleAnswer": "77",
+		"wikiAnswer": "77"
+	},
+	{
+		"countryName": "Гватемала",
+		"yandexAnswer": "—",
+		"googleAnswer": "65",
+		"wikiAnswer": "65"
+	},
+	{
+		"countryName": "Германия",
+		"yandexAnswer": "—",
+		"googleAnswer": "65",
+		"wikiAnswer": "65"
+	},
+	{
+		"countryName": "Гондурас",
+		"yandexAnswer": "28 октября 1968, Грасиас[es], Гондурас) — государственный и политический деятель Гондураса, президент Национального конгресса Гондураса (с 2010 года), в 2013 году избран президентом Гондураса.",
+		"googleAnswer": "52",
+		"wikiAnswer": "52"
+	},
+	{
+		"countryName": "Греция",
+		"yandexAnswer": "7 лет в 1827 году, но в греческих первоисточниках эта должность обозначается как «правитель», а не «президент».",
+		"googleAnswer": "64",
+		"wikiAnswer": "64"
+	},
+	{
+		"countryName": "Грузия",
+		"yandexAnswer": "—",
+		"googleAnswer": "69",
+		"wikiAnswer": "69"
+	},
+	{
+		"countryName": "Джибути",
+		"yandexAnswer": "27 ноября 1946, Дыре-Дауа, Эфиопия) — второй президент Джибути с 8 мая 1999 года. Наследовал своему дяде, Хасану Гуледу Аптидону.",
+		"googleAnswer": "73",
+		"wikiAnswer": "74"
+	},
+	{
+		"countryName": "Доминика",
+		"yandexAnswer": "—",
+		"googleAnswer": "77",
+		"wikiAnswer": "77"
+	},
+	{
+		"countryName": "Египет",
+		"yandexAnswer": "18 июня 1953 г. по 14 ноября 1954 г. Родился 20 февраля 1901 г. Закончил Египетскую военную академию, колледж Генерального штаба.",
+		"googleAnswer": "66",
+		"wikiAnswer": "66"
+	},
+	{
+		"countryName": "Замбия",
+		"yandexAnswer": "—",
+		"googleAnswer": "64",
+		"wikiAnswer": "64"
+	},
+	{
+		"countryName": "Зимбабве",
+		"yandexAnswer": "21 февраля 1924 года. Возраст: 95 лет. Дата смерти: 6 сентября 2019 г. Место рождения: Хараре. Рост: 180 см Вес: 85 кг. Деятельность: экс-президент Зимбабве. Семейное положение: был женат. Роберт Мугабе - биография.",
+		"googleAnswer": "78",
+		"wikiAnswer": "78"
+	},
+	{
+		"countryName": "Израиль",
+		"yandexAnswer": "9 сентября 1939, Иерусалим, Британский мандат в Палестине) — израильский юрист, государственный и общественный деятель. Действующий президент Израиля с 24 июля 2014 года",
+		"googleAnswer": "81",
+		"wikiAnswer": "81"
+	},
+	{
+		"countryName": "Индия",
+		"yandexAnswer": "60 лет. Средний возраст вступления примерно 71 лет и 8 месяцев, которая падает между Prathiba Патил и Абдул Калам .",
+		"googleAnswer": "75",
+		"wikiAnswer": "75"
+	},
+	{
+		"countryName": "Индонезия",
+		"yandexAnswer": "1901 г. в яванском городе Сурабая, в семье богатого торговца, гласит биография.",
+		"googleAnswer": "59",
+		"wikiAnswer": "59"
+	},
+	{
+		"countryName": "Ирак",
+		"yandexAnswer": "28 апреля 1937 года в небольшом селе... РИА Новости, 30.12.2016.",
+		"googleAnswer": "60",
+		"wikiAnswer": "60"
+	},
+	{
+		"countryName": "Иран",
+		"yandexAnswer": "12 ноября 2018 года политику исполняется 70 лет. Президент Ирана занимает этот пост уже второй срок подряд.",
+		"googleAnswer": "72",
+		"wikiAnswer": "72"
+	},
+	{
+		"countryName": "Ирландия",
+		"yandexAnswer": "",
+		"googleAnswer": "80",
+		"wikiAnswer": "80"
+	},
+	{
+		"countryName": "Исландия",
+		"yandexAnswer": "16 лет. НЕКОТОРЫЕ ФАКТЫ О ПРЕДШЕСТВЕННИКАХ ВИГДИС. 1) Свейдн Бьёрнссон - президент Исландии 1944 - 1952 годах. Предприниматель и депутат, сын второго премьер-министра Исландии, президентом стал в 63 года.",
+		"googleAnswer": "—",
+		"wikiAnswer": "52"
+	},
+	{
+		"countryName": "Италия",
+		"yandexAnswer": "73",
+		"googleAnswer": "79",
+		"wikiAnswer": "79"
+	},
+	{
+		"countryName": "Кабо-Верде",
+		"yandexAnswer": "—",
+		"googleAnswer": "70",
+		"wikiAnswer": "70"
+	},
+	{
+		"countryName": "Казахстан",
+		"yandexAnswer": "—",
+		"googleAnswer": "68",
+		"wikiAnswer": "68"
+	},
+	{
+		"countryName": "Камерун",
+		"yandexAnswer": "2018 году 85-летний президент Камеруна Поль Бийя. Сегодня Бийя уже 45 лет у власти: в 1975-м был назначен премьер-министром, а в 1982-м стал президентом.",
+		"googleAnswer": "88",
+		"wikiAnswer": "88"
+	},
+	{
+		"countryName": "Кения",
+		"yandexAnswer": "26 октября исполнилось 54 года. В должность президента вступил 9 апреля 2013 года, на всеобщих выборах его поддержало 50,07% изберателей.",
+		"googleAnswer": "59",
+		"wikiAnswer": "59"
+	},
+	{
+		"countryName": "Кипр",
+		"yandexAnswer": "—",
+		"googleAnswer": "74",
+		"wikiAnswer": "74"
+	},
+	{
+		"countryName": "Киргизия",
+		"yandexAnswer": "17 сентября 1956 г. (63 года)",
+		"googleAnswer": "52",
+		"wikiAnswer": "52"
+	},
+	{
+		"countryName": "Кирибати",
+		"yandexAnswer": "—",
+		"googleAnswer": "60",
+		"wikiAnswer": "60"
+	},
+	{
+		"countryName": "Колумбия",
+		"yandexAnswer": "1 августа 1976, Богота) — колумбийский политический и государственный деятель, Президент Колумбии с августа 2018 года, ранее Сенатор (2014—2018).",
+		"googleAnswer": "44",
+		"wikiAnswer": "44"
+	},
+	{
+		"countryName": "Коста-Рика",
+		"yandexAnswer": "—",
+		"googleAnswer": "41",
+		"wikiAnswer": "41"
+	},
+	{
+		"countryName": "Кот-д’Ивуар",
+		"yandexAnswer": "—",
+		"googleAnswer": "79",
+		"wikiAnswer": "79"
+	},
+	{
+		"countryName": "Куба",
+		"yandexAnswer": "—",
+		"googleAnswer": "61",
+		"wikiAnswer": "61"
+	},
+	{
+		"countryName": "Лаос",
+		"yandexAnswer": "2021–2025 годов возглавил 70-летний. Пханкхам Випхаван. , занимавший до этого пост вице-президента. Его заместителями стали генерал. Чансамон Чаннялат.",
+		"googleAnswer": "—",
+		"wikiAnswer": "75"
+	},
+	{
+		"countryName": "Либерия",
+		"yandexAnswer": "—",
+		"googleAnswer": "54",
+		"wikiAnswer": "54"
+	},
+	{
+		"countryName": "Ливан",
+		"yandexAnswer": "12 президент Ливана вступил в должность 25 мая 2008 года.",
+		"googleAnswer": "86",
+		"wikiAnswer": "86"
+	},
+	{
+		"countryName": "Литва",
+		"yandexAnswer": "1 марта 1956 года. До карьеры политика она была работником меховой фабрики.",
+		"googleAnswer": "57",
+		"wikiAnswer": "57"
+	},
+	{
+		"countryName": "Маврикий",
+		"yandexAnswer": "5-летний срок (возможно продление на 2-й срок) по представлению премьер-министра..",
+		"googleAnswer": "—",
+		"wikiAnswer": "62"
+	},
+	{
+		"countryName": "Мавритания",
+		"yandexAnswer": "—",
+		"googleAnswer": "64",
+		"wikiAnswer": "64"
+	},
+	{
+		"countryName": "Мадагаскар",
+		"yandexAnswer": "—",
+		"googleAnswer": "46",
+		"wikiAnswer": "46"
+	},
+	{
+		"countryName": "Малави",
+		"yandexAnswer": "2004 года. Следующие президентские выборы были назначены на 2014 год.",
+		"googleAnswer": "66",
+		"wikiAnswer": "66"
+	},
+	{
+		"countryName": "Мальдивы",
+		"yandexAnswer": "—",
+		"googleAnswer": "59",
+		"wikiAnswer": "59"
+	},
+	{
+		"countryName": "Мальта",
+		"yandexAnswer": "24 апреля 1942 Зейтун, британская колония Мальта) — мальтийский политик и 10-й действующий президент Мальты. Он был министром иностранных дел Мальты с 1996 по 1998 год, при премьер-министре Альфреде Санте и при премьер-министре Джозефе Мускате с 2013 по 2017 год.",
+		"googleAnswer": "79",
+		"wikiAnswer": "79"
+	},
+	{
+		"countryName": "Мексика",
+		"yandexAnswer": "30 лет независимой Мексики. 2. Висенте Герреро (1782–1831).",
+		"googleAnswer": "67",
+		"wikiAnswer": "67"
+	},
+	{
+		"countryName": "Мозамбик",
+		"yandexAnswer": "1975 году, в общей сложности на восьми сроках было четыре президента.",
+		"googleAnswer": "62",
+		"wikiAnswer": "62"
+	},
+	{
+		"countryName": "Молдавия",
+		"yandexAnswer": "44",
+		"googleAnswer": "49",
+		"wikiAnswer": "49"
+	},
+	{
+		"countryName": "Мьянма",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "70"
+	},
+	{
+		"countryName": "Намибия",
+		"yandexAnswer": "—",
+		"googleAnswer": "79",
+		"wikiAnswer": "79"
+	},
+	{
+		"countryName": "Непал",
+		"yandexAnswer": "19 июня 1961 г.) Непальский политик, выступающий в качестве 2-й президент Непала, занимает должность с 28 октября 2015 года. Она первая женщина занимать офис в стране. Она была избран в парламентском голосовании, получив 327 голосов из 549 против Кул Бахадур Гурунг, кандидат в президенты от Непальский Конгресс.",
+		"googleAnswer": "59",
+		"wikiAnswer": "59"
+	},
+	{
+		"countryName": "Нигер",
+		"yandexAnswer": "—",
+		"googleAnswer": "61",
+		"wikiAnswer": "61"
+	},
+	{
+		"countryName": "Нигерия",
+		"yandexAnswer": "—",
+		"googleAnswer": "78",
+		"wikiAnswer": "78"
+	},
+	{
+		"countryName": "Никарагуа",
+		"yandexAnswer": "5 лет.",
+		"googleAnswer": "75",
+		"wikiAnswer": "75"
+	},
+	{
+		"countryName": "Пакистан",
+		"yandexAnswer": "—",
+		"googleAnswer": "71",
+		"wikiAnswer": "71"
+	},
+	{
+		"countryName": "Палау",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "52"
+	},
+	{
+		"countryName": "Панама",
+		"yandexAnswer": "66 лет. Он учился в Соединённых Штатах, и окончив университет (UT Austin) в городе Остин штата Техас, получил докторскую степень.",
+		"googleAnswer": "68",
+		"wikiAnswer": "68"
+	},
+	{
+		"countryName": "Парагвай",
+		"yandexAnswer": "10 ноября 1971 г. в Асунсьоне, столице Парагвая (исп. Asunción). Отец, тоже Марио Абдо Бенитес — потомок ливанских эмигрантов, на что указывает часть имени «Абдо».",
+		"googleAnswer": "49",
+		"wikiAnswer": "49"
+	},
+	{
+		"countryName": "Перу",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "76"
+	},
+	{
+		"countryName": "Польша",
+		"yandexAnswer": "47",
+		"googleAnswer": "49",
+		"wikiAnswer": "49"
+	},
+	{
+		"countryName": "Португалия",
+		"yandexAnswer": "70",
+		"googleAnswer": "72",
+		"wikiAnswer": "72"
+	},
+	{
+		"countryName": "Россия",
+		"yandexAnswer": "68",
+		"googleAnswer": "68",
+		"wikiAnswer": "68"
+	},
+	{
+		"countryName": "Руанда",
+		"yandexAnswer": "7-летний срок, руководящий страной и назначающий главу правительства.",
+		"googleAnswer": "63",
+		"wikiAnswer": "63"
+	},
+	{
+		"countryName": "Румыния",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "61"
+	},
+	{
+		"countryName": "Сальвадор",
+		"yandexAnswer": "24 июля 1981, Сан-Сальвадор, Сальвадор) — сальвадорский политик и государственный деятель, бизнесмен, президент Сальвадора (с 1 июня 2019 года).",
+		"googleAnswer": "39",
+		"wikiAnswer": "39"
+	},
+	{
+		"countryName": "Сербия",
+		"yandexAnswer": "—",
+		"googleAnswer": "51",
+		"wikiAnswer": "51"
+	},
+	{
+		"countryName": "Сингапур",
+		"yandexAnswer": "65",
+		"googleAnswer": "66",
+		"wikiAnswer": "66"
+	},
+	{
+		"countryName": "Сирия",
+		"yandexAnswer": "54",
+		"googleAnswer": "55",
+		"wikiAnswer": "55"
+	},
+	{
+		"countryName": "Словения",
+		"yandexAnswer": "2 ноября 1963 года в городе Постойна (Югославия, ныне Словения). В 1987 году окончил факультет социологии,... РИА Новости, 13.11.2017.",
+		"googleAnswer": "57",
+		"wikiAnswer": "57"
+	},
+	{
+		"countryName": "Суринам",
+		"yandexAnswer": "—",
+		"googleAnswer": "62",
+		"wikiAnswer": "62"
+	},
+	{
+		"countryName": "Таджикистан",
+		"yandexAnswer": "05.10.2020. Сегодня, 5 октября, главе Таджикистана Эмомали Рахмону исполняется 68 лет; 26 лет из них он занимает пост президента республики.",
+		"googleAnswer": "68",
+		"wikiAnswer": "68"
+	},
+	{
+		"countryName": "Танзания",
+		"yandexAnswer": "29 октября 1959, округ Чато (англ.), мандат Танганьика — 17 марта 2021, Дар-эс-Салам) — пятый Президент Танзании, в должности с 5 ноября 2015 года по 17 марта 2021 года.",
+		"googleAnswer": "61",
+		"wikiAnswer": "61"
+	},
+	{
+		"countryName": "Того",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "54"
+	},
+	{
+		"countryName": "Тунис",
+		"yandexAnswer": "1957 году на посту президента занимали 7 человек.",
+		"googleAnswer": "63",
+		"wikiAnswer": "63"
+	},
+	{
+		"countryName": "Туркмения",
+		"yandexAnswer": "62",
+		"googleAnswer": "63",
+		"wikiAnswer": "63"
+	},
+	{
+		"countryName": "Турция",
+		"yandexAnswer": "65 лет.",
+		"googleAnswer": "67",
+		"wikiAnswer": "67"
+	},
+	{
+		"countryName": "Уганда",
+		"yandexAnswer": "15 августа 1944) — угандийский политический, государственный и военный деятель, президент Уганды с 1986 года.",
+		"googleAnswer": "76",
+		"wikiAnswer": "76"
+	},
+	{
+		"countryName": "Узбекистан",
+		"yandexAnswer": "30 января исполнился бы 81 год. Ислам Каримов родился 30 января 1938 года в Самарканде. 24 марта 1990 года на сессии Верховного Совета Узбекской ССР он был избран президентом Узбекской ССР, а 29 декабря 1991 года на всенародных выборах — первым президентом Узбекистана.",
+		"googleAnswer": "63",
+		"wikiAnswer": "63"
+	},
+	{
+		"countryName": "Украина",
+		"yandexAnswer": "—",
+		"googleAnswer": "43",
+		"wikiAnswer": "43"
+	},
+	{
+		"countryName": "Уругвай",
+		"yandexAnswer": "40-й президент Уругвая (с 1 марта 2010 г. по 1 марта 2015 г). Его соотечественники уверяют, что это «самый бедный президент» в мире (исп.",
+		"googleAnswer": "47",
+		"wikiAnswer": "47"
+	},
+	{
+		"countryName": "Микронезия",
+		"yandexAnswer": "16 октября 1947 года. 8-й Президент Федеративных Штатов Микронезии. Мозамбик. Филипе Жасинто Ньюси.",
+		"googleAnswer": "—",
+		"wikiAnswer": "57"
+	},
+	{
+		"countryName": "Фиджи",
+		"yandexAnswer": "25 июля 1990 года, Президент Суверенной Демократической Республики Фиджи до 27 июля 1998 года, Президент Республики Островов Фиджи до 7 сентября 2013 года). Также фактически полномочиями президента обладали главы временных военных правительств (после военных переворотов).",
+		"googleAnswer": "73",
+		"wikiAnswer": "73"
+	},
+	{
+		"countryName": "Филиппины",
+		"yandexAnswer": "28 марта 1945) — филиппинский юрист и политик висайского происхождения, президент Филиппин с 30 июня 2016 года.",
+		"googleAnswer": "76",
+		"wikiAnswer": "76"
+	},
+	{
+		"countryName": "Финляндия",
+		"yandexAnswer": "101",
+		"googleAnswer": "72",
+		"wikiAnswer": "72"
+	},
+	{
+		"countryName": "Франция",
+		"yandexAnswer": "1977 году, ему 39 лет. Он стал 25-м президентом Франции и самым молодым президентом в истории созданной более полувека назад генералом Шарлем де Голлем Пятой Республики.",
+		"googleAnswer": "43",
+		"wikiAnswer": "43"
+	},
+	{
+		"countryName": "Хорватия",
+		"yandexAnswer": "29 апреля 1968 г. (51 год)",
+		"googleAnswer": "54",
+		"wikiAnswer": "54"
+	},
+	{
+		"countryName": "Черногория",
+		"yandexAnswer": "5 лет, с правом однократного переизбрания.",
+		"googleAnswer": "59",
+		"wikiAnswer": "59"
+	},
+	{
+		"countryName": "Чехия",
+		"yandexAnswer": "28 сентября 1944 года в городе Колин (Чехословакия, ныне — Чехия). Его отец был почтовым клерком, мать —... РИА Новости, 27.01.2018.",
+		"googleAnswer": "76",
+		"wikiAnswer": "76"
+	},
+	{
+		"countryName": "Чили",
+		"yandexAnswer": "29 сентября 1951, Сантьяго, Чили) — чилийский государственный, политический и военный деятель, президент Чили c 11 марта 2006 по 11 марта 2010 года и c 11 марта 2014 года по 11 марта 2018 года от Социалистической партии Чили.",
+		"googleAnswer": "71",
+		"wikiAnswer": "71"
+	},
+	{
+		"countryName": "Шри-Ланка",
+		"yandexAnswer": "—",
+		"googleAnswer": "71",
+		"wikiAnswer": "71"
+	},
+	{
+		"countryName": "Эквадор",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "65"
+	},
+	{
+		"countryName": "Эритрея",
+		"yandexAnswer": "2 февраля 1946 г. в Асмэре (в то время территория Эритреи находилась под управлением британской военной администрации; с 1952 г. - в составе Федерации Эфиопии и Эритреи, с 1962 г. - Эфиопии, с 1993 г. независимое государство).",
+		"googleAnswer": "75",
+		"wikiAnswer": "75"
+	},
+	{
+		"countryName": "Эстония",
+		"yandexAnswer": "—",
+		"googleAnswer": "51",
+		"wikiAnswer": "51"
+	},
+	{
+		"countryName": "Абхазия",
+		"yandexAnswer": "35 и не старше 65 лет, обладающий избирательным правом.",
+		"googleAnswer": "63",
+		"wikiAnswer": "58"
+	},
+	{
+		"countryName": "Косово",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "39"
+	},
+	{
+		"countryName": "Восточный Тимор",
+		"yandexAnswer": "5 лет.",
+		"googleAnswer": "—",
+		"wikiAnswer": "66"
+	},
+	{
+		"countryName": "Латвия",
+		"yandexAnswer": "99",
+		"googleAnswer": "65",
+		"wikiAnswer": "65"
+	},
+	{
+		"countryName": "ОАЭ",
+		"yandexAnswer": "3 ноября 2004 года после смерти своего отца, Зайда ибн Султана аль-Нахайяна.",
+		"googleAnswer": "72",
+		"wikiAnswer": "72"
+	},
+	{
+		"countryName": "Сан-Томе и Принсипи",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "79"
+	},
+	{
+		"countryName": "Северная Македония",
+		"yandexAnswer": "56 лет) родился 3 апреля 1963 года в Скопье, с 12 мая 2019 года - президент Республики Северной Македонии. Македонец в 1987 году получил степень бакалавра права, в 2006 году - магистра, в 2008 году - доктора в области политологии в столичном Университете имени Святых Кирилла и Мефодия.",
+		"googleAnswer": "58",
+		"wikiAnswer": "58"
+	},
+	{
+		"countryName": "Словакия",
+		"yandexAnswer": "21 июня, ей исполнится 46 лет.",
+		"googleAnswer": "47",
+		"wikiAnswer": "47"
+	},
+	{
+		"countryName": "США",
+		"yandexAnswer": "73",
+		"googleAnswer": "78",
+		"wikiAnswer": "78"
+	},
+	{
+		"countryName": "Сомали",
+		"yandexAnswer": "—",
+		"googleAnswer": "59",
+		"wikiAnswer": "59"
+	},
+	{
+		"countryName": "Сьерра-Леоне",
+		"yandexAnswer": "—",
+		"googleAnswer": "57",
+		"wikiAnswer": "57"
+	},
+	{
+		"countryName": "Экваториальная Гвинея",
+		"yandexAnswer": "1979 года. 2 августа Обианг отпразднует свой 41 год в кресле президента.",
+		"googleAnswer": "78",
+		"wikiAnswer": "78"
+	},
+	{
+		"countryName": "ЮАР",
+		"yandexAnswer": "27",
+		"googleAnswer": "68",
+		"wikiAnswer": "68"
+	},
+	{
+		"countryName": "Южный Судан",
+		"yandexAnswer": "13 сентября 1951, Бахр-эль-Газаль, Англо-Египетский Судан) — президент Республики Южный Судан с 9 июля 2011 года (формально в этот день некоторое время между провозглашением независимости и собственной присягой был исполняющим обязанности президента); глава правительства (президент) автономного Южного Судана (в том числе исполняющий обязанности в 2005 году) и вице-президент Судана в 2005-2011 годах, лидер.",
+		"googleAnswer": "69",
+		"wikiAnswer": "69"
+	},
+	{
+		"countryName": "Южная Осетия",
+		"yandexAnswer": "—",
+		"googleAnswer": "51",
+		"wikiAnswer": "51"
+	},
+	{
+		"countryName": "НКР",
+		"yandexAnswer": "—",
+		"googleAnswer": "47",
+		"wikiAnswer": "47"
+	},
+	{
+		"countryName": "ПМР",
+		"yandexAnswer": "14 апреля 1970 года в посёлке Даурия Забайкальского района Читинской области в семье военнослужащего.",
+		"googleAnswer": "51",
+		"wikiAnswer": "51"
+	},
+	{
+		"countryName": "Азад-Кашмир",
+		"yandexAnswer": "24 октября 1947 года Президент является конституционным главой в то время как премьер - министр является главой исполнительной власти государства. Президент избирается Азад Джамму и Законодательным собранием Кашмира сроком на 5 лет в соответствии с положениями Закона об Азад Джамму и Кашмир (Временная конституция) 1974 года.",
+		"googleAnswer": "—",
+		"wikiAnswer": "70"
+	},
+	{
+		"countryName": "Венесуэла",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "59"
+	},
+	{
+		"countryName": "Гвинея",
+		"yandexAnswer": "10 ноября 1958 года. Согласено ей и принятым в последующие годы поправкам Президент Гвинейской республики избирался всеобщим и прямым голосованием сроком на 7 лет.",
+		"googleAnswer": "83",
+		"wikiAnswer": "83"
+	},
+	{
+		"countryName": "Йемен",
+		"yandexAnswer": "2012 г. выборах Президентом Йемена был избран Аль-Хади Абд Раббо Мансур (عبد ربه منصور هادي‎), вступивший в должность 27 февраля 2012 года на 2-летний срок. До этого он дважды (с 4 июня по 23 сентября 2011 г. и с 23 ноября 2011 г. по 27 февраля 2012 г.) исполнял обязанности президента страны.",
+		"googleAnswer": "—",
+		"wikiAnswer": "75"
+	},
+	{
+		"countryName": "Конго",
+		"yandexAnswer": "—",
+		"googleAnswer": "57",
+		"wikiAnswer": "57"
+	},
+	{
+		"countryName": "Корея",
+		"yandexAnswer": "35",
+		"googleAnswer": "68",
+		"wikiAnswer": "68"
+	},
+	{
+		"countryName": "Ливия",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "61"
+	},
+	{
+		"countryName": "Мали",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "70"
+	},
+	{
+		"countryName": "Монголия",
+		"yandexAnswer": "—",
+		"googleAnswer": "58",
+		"wikiAnswer": "58"
+	},
+	{
+		"countryName": "Науру",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "52"
+	},
+	{
+		"countryName": "Сенегал",
+		"yandexAnswer": "11 декабря 1961 года) — сенегальский политик, президент Сенегала с апреля 2012 года.",
+		"googleAnswer": "59",
+		"wikiAnswer": "59"
+	},
+	{
+		"countryName": "Эфиопия",
+		"yandexAnswer": "6 лет, с возможностью однократного переизбрания. Появилась. 1974 год. Первый. Аман Андом.",
+		"googleAnswer": "71",
+		"wikiAnswer": "71"
+	},
+	{
+		"countryName": "Палестина",
+		"yandexAnswer": "77",
+		"googleAnswer": "85",
+		"wikiAnswer": "86"
+	},
+	{
+		"countryName": "Гвинея-Бисау",
+		"yandexAnswer": "27 апреля 1939 года в столице португальской колонии, г. Бисау в крестьянской семье народности папел. Рано начал работать, получил профессию — электрик. В 1960 г. вступил в Африканскую партию независимости Гвинеи и Кабо-Верде Амилкара Кабрала, в 1963 году начавшую партизанскую борьбу за независимость этих стран от Португалии.",
+		"googleAnswer": "48",
+		"wikiAnswer": "48"
+	},
+	{
+		"countryName": "Доминикана",
+		"yandexAnswer": "16 августа 2020 года. Луис Абинадер: кто он – новый Президент Доминиканы. Луис Абинадер родился 12 июля 1967 года (52 года на момент избрания Президентом) – доминиканский политик, экономист и бизнесмен.",
+		"googleAnswer": "53",
+		"wikiAnswer": "53"
+	},
+	{
+		"countryName": "Коморы",
+		"yandexAnswer": "26 мая 2016 года. до этого был президентом с 6 мая 1999 года по 21 января 2002 года. Демократическая Республика Конго (бывший Заир).",
+		"googleAnswer": "61",
+		"wikiAnswer": "62"
+	},
+	{
+		"countryName": "",
+		"yandexAnswer": "—",
+		"googleAnswer": "57",
+		"wikiAnswer": "57"
+	},
+	{
+		"countryName": "Маршалловы Острова",
+		"yandexAnswer": "—",
+		"googleAnswer": "70",
+		"wikiAnswer": "70"
+	},
+	{
+		"countryName": "Сейшелы",
+		"yandexAnswer": "29 июня 1976 года, когда страна объявила о своей независимости от Великобритании.",
+		"googleAnswer": "60",
+		"wikiAnswer": "60"
+	},
+	{
+		"countryName": "Тринидад и Тобаго",
+		"yandexAnswer": "1976 года, конституции Республики Тринидад и Тобаго, президент заменил монарха в качестве церемониального главы государства. Президент избирается парламентом сроком на пять лет.",
+		"googleAnswer": "62",
+		"wikiAnswer": "62"
+	},
+	{
+		"countryName": "ЦАР",
+		"yandexAnswer": "—",
+		"googleAnswer": "64",
+		"wikiAnswer": "64"
+	},
+	{
+		"countryName": "ТРСК",
+		"yandexAnswer": "—",
+		"googleAnswer": "60",
+		"wikiAnswer": "60"
+	},
+	{
+		"countryName": "Тайвань",
+		"yandexAnswer": "—",
+		"googleAnswer": "64",
+		"wikiAnswer": "64"
+	},
+	{
+		"countryName": "САДР",
+		"yandexAnswer": "12 августа 1973 года (дата предположительная) в Ираке в знатной шиитской семье,. С 1999 по 2003 год находился в заключении.",
+		"googleAnswer": "—",
+		"wikiAnswer": "71"
+	},
+	{
+		"countryName": "Сомалиленд",
+		"yandexAnswer": "—",
+		"googleAnswer": "73",
+		"wikiAnswer": "73"
+	},
+	{
+		"countryName": "Амбазония",
+		"yandexAnswer": "—",
+		"googleAnswer": "—",
+		"wikiAnswer": "56"
+	}
+]
